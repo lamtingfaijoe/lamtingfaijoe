@@ -5,15 +5,11 @@ Hello, I am a year 4 student computer science student. This github page is like 
 
 
 
-| Skills      |
-| ---------   |
-| JavaScript  | 
-| Python      | 
-| ReactJS     | 
-| React Native| 
-| C++         | 
-| Git         |
-| CSS         |
-| Node        |
-| Html        |
-| Java        |
+| Skills      | Skills
+| ---------   | ---------   | 
+| JavaScript  | React Native| 
+| Python      | C++         | 
+| ReactJS     | Git         |
+| CSS         | Html        |
+| Java        | Node        |
+
