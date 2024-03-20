@@ -1,6 +1,6 @@
 # Introduction
 
-Hello everyone! I'm a Hong Kong-based Data Engineer / Software Engineer with experience working on various Cloud Data Projects. I'm passionate about building efficient ETL pipelines and leveraging cloud environments for data processing and analysis. Allow me to share my skill set and experience with you.
+Hello everyone! 👋 I'm a Hong Kong-based Data Engineer / Software Engineer with experience working on various Cloud Data Projects. I'm passionate about building efficient ETL pipelines and leveraging cloud environments for data processing and analysis. Allow me to share my skill set and experience with you.
 
 ## Skill Set
 
@@ -50,4 +50,4 @@ Hello everyone! I'm a Hong Kong-based Data Engineer / Software Engineer with exp
 
 - Microsoft Certified: Power Platform Fundamentals
 
-Feel free to reach out to me if you have any questions or if there's anything I can help you with!
+Feel free to reach out to me if you have any questions or if there's anything I can help you with! 📫
